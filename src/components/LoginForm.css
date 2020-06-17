@@ -1,0 +1,39 @@
+.LoginForm-all{
+	text-align: center;
+	margin-top: 50px;
+}
+.LoginForm-all h1{
+	margin-bottom: 50px;
+}
+.LoginForm-all input{
+	width: 400px;
+	height: 50px;
+	display: block;
+	margin: 0px auto;
+	margin-bottom: 20px;
+	padding: 0px 20px;
+	outline: none;
+}
+.LoginForm-all button{
+	background-color: #66e625;
+	width: 300px;
+	height: 50px;
+	border: none;
+	display: block;
+	margin: 30px auto;
+}
+.LoginForm-all input.ip-checkbox{
+	width: 15px;
+	display: inline;
+	height: 15px;
+}
+.LoginForm-all span{
+	margin-left: 8px;
+}
+.LoginForm-all .form-link a{
+	display: inline-block;
+	text-decoration: none;
+	color: #000;
+	margin: 0px 20px;
+	font-weight: bold;
+}
