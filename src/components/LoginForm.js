@@ -6,9 +6,10 @@ class LoginForm extends Component {
 			<div className="LoginForm">
 				<div className="container">
 					<div className="LoginForm-all">
-						<h1>Sign in</h1>
+						<h1>{this.props.title}</h1>
 						<form>
-							<input placeholder="Username" type="text"></input>
+							<label>{this.props.email}</label>
+							<input placeholder="Email" type="text"></input>
 							<input placeholder="Password" type="text"></input>
 							<button>Sign up to Coders-x</button>
 							<input className="ip-checkbox" type="checkbox"></input>
