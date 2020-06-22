@@ -1,0 +1,13 @@
+.RecommendedFriends{
+	width: 400px;
+	height: 300px;
+	margin-top: 200px;
+	margin-left: 200px;
+	padding: 20px;
+}
+.RecommendedFriends h4{
+	float: left;
+}
+.RecommendedFriends p{
+	text-align: right;
+}

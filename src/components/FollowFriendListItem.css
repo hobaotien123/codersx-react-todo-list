@@ -1,0 +1,27 @@
+.FollowFriendListItem{
+	width: 100%;
+	display: flex;
+	margin-top: 10px;
+	margin-right:0px;
+}
+.FollowFriendListItem img{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	
+}
+.FollowFriendListItem--text{
+	margin-top: 2px;
+	margin-left: 30px;
+	text-align: center;
+}
+.FollowFriendListItem h6{
+	font-size: 10px;
+}
+.FollowFriendListItem p{
+	text-align : left;
+}
+.FollowFriendListItem h5{
+	margin-left: auto;
+	margin-top: 5px;
+}
