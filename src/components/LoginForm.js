@@ -15,8 +15,8 @@ class LoginForm extends Component {
 							<input className="ip-checkbox" type="checkbox"></input>
 							<span>Keep me signin</span>
 							<div className="form-link">
-								<a href="#">Forgot username</a>
-								<a href="#">Forgot password</a>
+								<a href="google.com">Forgot username</a>
+								<a href="google.com">Forgot password</a>
 							</div>
 						</form>
 					</div>

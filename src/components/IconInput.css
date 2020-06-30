@@ -1,0 +1,16 @@
+.icon-input{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	position: absolute;
+	background-color: lightblue;
+	right: -10px;
+	top: 6.5px;
+	transition: 1s;
+}
+.active{
+	display: none;
+}
+.inputRed{
+	border: 1px solid red;
+}
