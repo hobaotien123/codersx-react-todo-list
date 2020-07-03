@@ -29,7 +29,7 @@ class RecommendedFriends extends Component {
 				<h4>Gợi ý cho bạn</h4>
 				<p>Xem tất cả</p>
 				{  
-            		this.todoItem.map((item,index) => <FollowFriendListItem key={index} img={logoFb} text={item.text} text2={item.text2} text3={item.text3} />)
+            		this.todoItem.map((item,index) => <FollowFriendListItem key={index} img={logoFb} item={item} />)
           		}
 			</div>
 		)
